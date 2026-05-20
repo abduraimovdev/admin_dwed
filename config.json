@@ -1,6 +1,6 @@
 {
   "showDevTools": false,
-  "isMaintenance": true,
+  "isMaintenance": false,
   "maintenanceMessage": "Texnik ishlar...",
   "minVersion": "1.0.1",
   "forceUpdate": false,
