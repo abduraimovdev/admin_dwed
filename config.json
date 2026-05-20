@@ -1,1 +1,15 @@
-
+{
+  "showDevTools": false,
+  "isMaintenance": true,
+  "maintenanceMessage": "Texnik ishlar...",
+  "minVersion": "1.0.1",
+  "forceUpdate": false,
+  "featureFlags": {
+    "enableKpi": true,
+    "enableProducts": true,
+    "enableCategories": true,
+    "enableQuiz": true,
+    "enableUsers": true,
+    "enableModeration": true
+  }
+}
